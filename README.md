@@ -5,7 +5,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/jair-valdes-5213731a9/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://jotauve24.github.io/"><img src="https://img.shields.io/badge/Portafolio-Ver_sitio-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portafolio" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Jotauve24&style=for-the-badge&color=06b6d4&label=VISITAS" alt="Visitas al perfil" />
 </div>
 
 ## Sobre mí
