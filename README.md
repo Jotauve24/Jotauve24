@@ -54,6 +54,45 @@ Soy **Jair Valdés**, profesional panameño de tecnología con experiencia en **
   </tr>
 </table>
 
+## Prototipos funcionales
+
+<p>Soluciones que he diseñado para resolver necesidades concretas de productividad, comunicación y análisis. Se muestran como portafolio; su código fuente y los datos procesados se mantienen privados.</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/barra-pendientes.svg" width="100%" alt="Mi Barra de Pendientes" />
+      <h3>✅ Mi Barra de Pendientes</h3>
+      <p>Organizador flotante para Windows con tareas, alarmas, repeticiones y grupos reutilizables. Permite mantener los pendientes visibles sin interrumpir el flujo de trabajo.</p>
+      <img src="https://img.shields.io/badge/PROTOTIPO-FUNCIONAL-06B6D4?style=flat-square" alt="Prototipo funcional" />
+      <img src="https://img.shields.io/badge/CÓDIGO-PRIVADO-111827?style=flat-square&logo=github" alt="Código privado" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/teleprompter.svg" width="100%" alt="Teleprompter Inteligente" />
+      <h3>🎙️ Teleprompter Inteligente</h3>
+      <p>Teleprompter flotante que sigue localmente la voz del presentador, espera durante improvisaciones y continúa al retomar el guion. Diseñado para acompañar presentaciones sin bloquear otras aplicaciones.</p>
+      <img src="https://img.shields.io/badge/PROTOTIPO-FUNCIONAL-8B5CF6?style=flat-square" alt="Prototipo funcional" />
+      <img src="https://img.shields.io/badge/PROCESAMIENTO-LOCAL-111827?style=flat-square" alt="Procesamiento local" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/transcriplus.svg" width="100%" alt="TranscriPlus" />
+      <h3>📝 TranscriPlus</h3>
+      <p>Aplicación de escritorio para transcripción, subtítulos, revisión mediante OCR, biblioteca de contenidos y análisis local. Facilita comparar lo dicho con el texto visible en pantalla.</p>
+      <img src="https://img.shields.io/badge/PROTOTIPO-FUNCIONAL-06B6D4?style=flat-square" alt="Prototipo funcional" />
+      <img src="https://img.shields.io/badge/IA-LOCAL-111827?style=flat-square" alt="IA local" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/whatsapp-exportador.svg" width="100%" alt="Exportador autorizado de WhatsApp" />
+      <h3>📊 Exportador autorizado de WhatsApp</h3>
+      <p>Extensión interna para recopilar mensajes del chat abierto en un rango de fecha y hora y exportarlos de forma estructurada. Pensada para información autorizada, sin publicar conversaciones ni datos personales.</p>
+      <img src="https://img.shields.io/badge/PROTOTIPO-FUNCIONAL-22C55E?style=flat-square" alt="Prototipo funcional" />
+      <img src="https://img.shields.io/badge/PRIVACIDAD-POR_DISEÑO-111827?style=flat-square" alt="Privacidad por diseño" />
+    </td>
+  </tr>
+</table>
+
 ## Actividad en GitHub
 
 <div align="center">
