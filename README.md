@@ -3,8 +3,12 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jair-valdes-5213731a9/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://jotauve24.github.io/"><img src="https://img.shields.io/badge/Portafolio-Ver_sitio-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portafolio" /></a>
+  <a href="https://www.linkedin.com/in/jair-valdes-5213731a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://jotauve24.github.io/">
+    <img src="https://img.shields.io/badge/Portafolio-Ver_sitio-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portafolio" />
+  </a>
 </div>
 
 ## Sobre mí
@@ -39,24 +43,57 @@ Soy **Jair Valdés**, profesional panameño de tecnología con experiencia en **
   <img src="https://img.shields.io/badge/IA-Automatización_y_productividad-06B6D4?style=flat-square" alt="Inteligencia artificial" />
 </p>
 
+## Proyecto insignia
+
+<table>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="./assets/monitoreo.svg" width="100%" alt="MoniToreo — monitoreo institucional y análisis digital" />
+      <h3>🔎 MoniToreo</h3>
+      <p>Plataforma local de inteligencia digital para el monitoreo y análisis de información. Reúne contenidos de distintas fuentes, los clasifica y organiza para facilitar su revisión analítica.</p>
+      <p>Incluye panel operativo, acontecimientos y tendencias, programación de monitoreos, exportación y control por roles. El código, la base de monitoreo y los datos operativos permanecen privados.</p>
+      <img src="https://img.shields.io/badge/PROYECTO-INSIGNIA-F59E0B?style=flat-square" alt="Proyecto insignia" />
+      <img src="https://img.shields.io/badge/SISTEMA-FUNCIONAL-22D3EE?style=flat-square" alt="Sistema funcional" />
+      <img src="https://img.shields.io/badge/OPERACIÓN-LOCAL-8B5CF6?style=flat-square" alt="Operación local" />
+      <img src="https://img.shields.io/badge/CÓDIGO_Y_DATOS-PRIVADOS-111827?style=flat-square" alt="Código y datos privados" />
+    </td>
+  </tr>
+</table>
+
 ## Proyecto destacado
 
 <table>
   <tr>
     <td width="68%" valign="top">
       <h3>🏫 Aula Encuentro</h3>
-      <p>Aula web interactiva para organizar equipos de una materia. Incluye perfiles y avatares, selección de grupos con cupos, chat privado, archivos adjuntos y un panel de administración docente.</p>
-      <p>Construida con JavaScript, Supabase, Node.js y SQLite, con atención especial a permisos, privacidad y experiencia de usuario.</p>
-      <a href="https://jotauve24.github.io/Aula-virtual-JV/"><img src="https://img.shields.io/badge/ABRIR_DEMO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir demostración" /></a>
-      <a href="https://github.com/Jotauve24/Aula-virtual-JV"><img src="https://img.shields.io/badge/VER_CÓDIGO-111827?style=for-the-badge&logo=github&logoColor=white" alt="Ver código" /></a>
+      <p>
+        Aula web interactiva para organizar equipos de una materia. Incluye perfiles y avatares,
+        selección de grupos con cupos, chat privado, archivos adjuntos y un panel de administración docente.
+      </p>
+      <p>
+        Construida con JavaScript, Supabase, Node.js y SQLite, con atención especial a permisos,
+        privacidad y experiencia de usuario.
+      </p>
+      <a href="https://jotauve24.github.io/Aula-virtual-JV/">
+        <img src="https://img.shields.io/badge/ABRIR_DEMO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir demostración" />
+      </a>
+      <a href="https://github.com/Jotauve24/Aula-virtual-JV">
+        <img src="https://img.shields.io/badge/VER_CÓDIGO-111827?style=for-the-badge&logo=github&logoColor=white" alt="Ver código" />
+      </a>
     </td>
-    <td width="32%" align="center" valign="middle"><img src="./assets/aula-encuentro.svg" width="210" alt="Ilustración de Aula Encuentro" /></td>
+    <td width="32%" align="center" valign="middle">
+      <img src="./assets/aula-encuentro.svg" width="210" alt="Ilustración de Aula Encuentro" />
+    </td>
   </tr>
 </table>
 
 ## Prototipos funcionales
 
-<p>Soluciones que he diseñado para resolver necesidades concretas de productividad, comunicación y análisis. Se muestran como portafolio; su código fuente y los datos procesados se mantienen privados.</p>
+<p>
+  Soluciones que he diseñado para resolver necesidades concretas de productividad,
+  comunicación y análisis. Se muestran como portafolio; su código fuente y los datos
+  procesados se mantienen privados.
+</p>
 
 <table>
   <tr>
@@ -102,9 +139,9 @@ Soy **Jair Valdés**, profesional panameño de tecnología con experiencia en **
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotauve24&layout=compact&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=e5e7eb&locale=es" />
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotauve24&layout=compact&hide_border=true&bg_color=00000000&title_color=0891b2&text_color=374151&locale=es" alt="Lenguajes más utilizados por Jair" />
+    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotauve24&layout=compact&hide_border=true&bg_color=000000000&title_color=0891b2&text_color=374151&locale=es" alt="Lenguajes más utilizados por Jair" />
   </picture>
-</div>
+  </div>
 
 ---
 
