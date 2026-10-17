@@ -71,8 +71,8 @@ Soy **Jair Valdés**, profesional panameño de tecnología con experiencia en **
         selección de grupos con cupos, chat privado, archivos adjuntos y un panel de administración docente.
       </p>
       <p>
-        Construida con JavaScript, Supabase, Node.js y SQLite, con atención especial a permisos,
-        privacidad y experiencia de usuario.
+        Construida con JavaScript y Supabase, con atención especial a permisos, privacidad y experiencia de usuario.
+        Conserva además un prototipo local independiente en Node.js y SQLite.
       </p>
       <a href="https://jotauve24.github.io/Aula-virtual-JV/">
         <img src="https://img.shields.io/badge/ABRIR_DEMO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir demostración" />
@@ -83,6 +83,25 @@ Soy **Jair Valdés**, profesional panameño de tecnología con experiencia en **
     </td>
     <td width="32%" align="center" valign="middle">
       <img src="./assets/aula-encuentro.svg" width="210" alt="Ilustración de Aula Encuentro" />
+    </td>
+  </tr>
+</table>
+
+## Herramienta pública
+
+<table>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="./assets/trazojv.svg" width="100%" alt="TrazoJV — firma visual de documentos PDF" />
+      <h3>✍️ TrazoJV</h3>
+      <p>Herramienta web para añadir una firma visual a documentos PDF directamente en el navegador. Permite dibujarla, escribirla o importar una imagen, colocarla en las páginas y descargar el resultado.</p>
+      <p>Funciona sin registro y procesa el documento localmente, sin subirlo a un servidor. La firma insertada es visual y no sustituye una firma digital criptográfica certificada.</p>
+      <a href="https://jotauve24.github.io/trazo/">
+        <img src="https://img.shields.io/badge/ABRIR_TRAZOJV-6D4BD1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir TrazoJV" />
+      </a>
+      <a href="https://github.com/Jotauve24/jotauve24.github.io/tree/main/trazo">
+        <img src="https://img.shields.io/badge/VER_CÓDIGO-111827?style=for-the-badge&logo=github&logoColor=white" alt="Ver código de TrazoJV" />
+      </a>
     </td>
   </tr>
 </table>
@@ -139,7 +158,7 @@ Soy **Jair Valdés**, profesional panameño de tecnología con experiencia en **
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotauve24&layout=compact&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=e5e7eb&locale=es" />
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotauve24&layout=compact&hide_border=true&bg_color=000000000&title_color=0891b2&text_color=374151&locale=es" alt="Lenguajes más utilizados por Jair" />
+    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotauve24&layout=compact&hide_border=true&bg_color=00000000&title_color=0891b2&text_color=374151&locale=es" alt="Lenguajes más utilizados por Jair" />
   </picture>
   </div>
 
