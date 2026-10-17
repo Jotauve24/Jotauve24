@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#17112f"/>
+      <stop offset="1" stop-color="#43308c"/>
+    </linearGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#eef2ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="1140" cy="35" r="190" fill="#a78bfa" opacity=".12"/>
+  <circle cx="1040" cy="325" r="140" fill="#22d3ee" opacity=".07"/>
+
+  <text x="64" y="74" fill="#c4b5fd" font-family="Segoe UI,Arial" font-size="17" font-weight="700" letter-spacing="3">HERRAMIENTA WEB · PRIVACIDAD LOCAL</text>
+  <text x="64" y="132" fill="#ffffff" font-family="Segoe UI,Arial" font-size="44" font-weight="750">TrazoJV</text>
+  <text x="64" y="172" fill="#ddd6fe" font-family="Segoe UI,Arial" font-size="22">Firma visual de documentos PDF</text>
+
+  <g transform="translate(64 218)" font-family="Segoe UI,Arial">
+    <rect width="170" height="54" rx="14" fill="#ffffff" opacity=".09"/>
+    <path d="M26 28l8 8 17-19" fill="none" stroke="#67e8f9" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="62" y="34" fill="#f5f3ff" font-size="16">Sin registro</text>
+    <rect x="188" width="220" height="54" rx="14" fill="#ffffff" opacity=".09"/>
+    <path d="M216 34V17m0 17-7-7m7 7 7-7" fill="none" stroke="#c4b5fd" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="244" y="34" fill="#f5f3ff" font-size="16">Procesamiento local</text>
+  </g>
+
+  <g transform="translate(770 48)">
+    <rect x="90" y="15" width="260" height="270" rx="18" fill="#ffffff" opacity=".12"/>
+    <rect x="58" y="28" width="260" height="270" rx="18" fill="url(#paper)"/>
+    <path d="M270 28v54h48" fill="#ddd6fe"/>
+    <rect x="88" y="78" width="142" height="11" rx="5.5" fill="#c7d2fe"/>
+    <rect x="88" y="107" width="196" height="8" rx="4" fill="#e0e7ff"/>
+    <rect x="88" y="130" width="178" height="8" rx="4" fill="#e0e7ff"/>
+    <rect x="88" y="153" width="191" height="8" rx="4" fill="#e0e7ff"/>
+    <path d="M104 236c34-42 48 27 78-15 20-28 30 19 72-17" fill="none" stroke="#6d4bd1" stroke-width="7" stroke-linecap="round"/>
+    <path d="M94 255h181" stroke="#c4b5fd" stroke-width="3" stroke-linecap="round"/>
+    <g transform="translate(0 188)">
+      <circle cx="28" cy="28" r="28" fill="#22d3ee"/>
+      <path d="m17 29 7 7 16-18" fill="none" stroke="#09243a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+
+  <text x="64" y="326" fill="#a5b4fc" font-family="Segoe UI,Arial" font-size="15" letter-spacing="1.5">ABRE · FIRMA · DESCARGA · TODO EN TU NAVEGADOR</text>
+</svg>
