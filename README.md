@@ -60,7 +60,7 @@ Soy **Jair Valdés**, profesional panameño de tecnología con experiencia en **
   </tr>
 </table>
 
-## Proyecto destacado
+## Proyectos públicos
 
 <table>
   <tr>
@@ -72,8 +72,8 @@ Soy **Jair Valdés**, profesional panameño de tecnología con experiencia en **
       </p>
       <p>
         Construida con JavaScript y Supabase, con atención especial a permisos, privacidad y experiencia de usuario.
-        Conserva además un prototipo local independiente en Node.js y SQLite.
       </p>
+      <p><img src="./assets/aula-activa.svg" height="48" alt="AulaVirtualJv — proyecto público activo" /></p>
       <a href="https://jotauve24.github.io/Aula-virtual-JV/">
         <img src="https://img.shields.io/badge/ABRIR_DEMO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir demostración" />
       </a>
@@ -83,6 +83,23 @@ Soy **Jair Valdés**, profesional panameño de tecnología con experiencia en **
     </td>
     <td width="32%" align="center" valign="middle">
       <img src="./assets/aula-encuentro.svg" width="210" alt="Ilustración de Aula Encuentro" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="./assets/proyectojv.svg" width="100%" alt="ProyectoJv — laboratorio educativo interactivo" />
+      <h3>🖥️ ProyectoJv</h3>
+      <p>Laboratorio educativo interactivo con seis unidades sobre informática, Internet, colaboración, documentos, presentaciones y hojas de cálculo.</p>
+      <p>Incluye prácticas guiadas, exploración visual de una computadora, control docente de unidades, progreso local y generación de evidencias PDF en el navegador.</p>
+      <a href="https://jotauve24.github.io/ProyectoJv/">
+        <img src="https://img.shields.io/badge/ABRIR_LABORATORIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir ProyectoJv" />
+      </a>
+      <a href="https://github.com/Jotauve24/ProyectoJv">
+        <img src="https://img.shields.io/badge/VER_CÓDIGO-111827?style=for-the-badge&logo=github&logoColor=white" alt="Ver código de ProyectoJv" />
+      </a>
     </td>
   </tr>
 </table>
