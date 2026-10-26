@@ -64,7 +64,8 @@ Soy **Jair Valdés**, profesional panameño de tecnología con experiencia en **
 
 <table>
   <tr>
-    <td width="68%" valign="top">
+    <td colspan="2" valign="top">
+      <img src="./assets/aula-activa.svg" width="100%" alt="AulaVirtualJv — tu aula, tu equipo" />
       <h3>🏫 Aula Encuentro</h3>
       <p>
         Aula web interactiva para organizar equipos de una materia. Incluye perfiles y avatares,
@@ -73,16 +74,12 @@ Soy **Jair Valdés**, profesional panameño de tecnología con experiencia en **
       <p>
         Construida con JavaScript y Supabase, con atención especial a permisos, privacidad y experiencia de usuario.
       </p>
-      <p><img src="./assets/aula-activa.svg" height="48" alt="AulaVirtualJv — proyecto público activo" /></p>
       <a href="https://jotauve24.github.io/Aula-virtual-JV/">
         <img src="https://img.shields.io/badge/ABRIR_DEMO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir demostración" />
       </a>
       <a href="https://github.com/Jotauve24/Aula-virtual-JV">
         <img src="https://img.shields.io/badge/VER_CÓDIGO-111827?style=for-the-badge&logo=github&logoColor=white" alt="Ver código" />
       </a>
-    </td>
-    <td width="32%" align="center" valign="middle">
-      <img src="./assets/aula-encuentro.svg" width="210" alt="Ilustración de Aula Encuentro" />
     </td>
   </tr>
 </table>
